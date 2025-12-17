@@ -1,15 +1,15 @@
 
 # HR Analytics Dashboard - Atlas Labs (Power BI Case Study)
 
-A comprehensive Power BI project analyzing Human Resources data for Atlas Labs, a fictitious software company. This case study demonstrates end-to-end HR analytics including data modeling, exploratory data analysis, DAX calculations, custom visualizations, and actionable insights on employee demographics, performance, and attrition.
+A comprehensive Power BI project analysing Human Resources data for Atlas Labs, a software company. This case study demonstrates end-to-end HR analytics, including data modelling, exploratory data analysis, DAX calculations, custom visualisations, and actionable insights on employee demographics, performance, and attrition.
 
 ---
 
-## 📋 Problem Statement
+## Problem Statement
 
-Atlas Labs needs to explore their HR dataset to understand workforce trends and make data-driven decisions. As a Data Analyst, the goal is to:
+Atlas Labs needs to explore its HR dataset to understand workforce trends and make data-driven decisions. As a Data Analyst, the goal is to:
 
-- Analyze employee demographics and performance metrics
+- Analyse employee demographics and performance metrics
 - Investigate attrition patterns and identify factors impacting employee retention
 - Provide insights on hiring trends over time
 - Examine departmental and job role distributions
@@ -17,7 +17,7 @@ Atlas Labs needs to explore their HR dataset to understand workforce trends and 
 
 ---
 
-## 🎯 Business Questions Addressed
+## Business Questions  
 
 1. What are the current hiring trends over time?
 2. What is the demographic breakdown of employees (age, gender, marital status, ethnicity)?
@@ -28,7 +28,7 @@ Atlas Labs needs to explore their HR dataset to understand workforce trends and 
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 **Source:** Atlas Labs HR data (fictitious software company)  
 **Format:** CSV files  
@@ -44,45 +44,22 @@ Atlas Labs needs to explore their HR dataset to understand workforce trends and 
 
 ---
 
-## 🛠️ Technical Skills & Techniques Demonstrated
-
+## Technical Skills
 ### Data Preparation & Modeling
-- **Power Query Transformations:**
-  - Loading and cleaning CSV files
-  - Data type conversions and formatting
-  - Handling missing values and duplicates
-  
-- **Data Modeling:**
-  - Creating date dimension tables for time intelligence
-  - Establishing relationships between fact and dimension tables
-  - Star schema design for optimal performance
-
-### DAX (Data Analysis Expressions)
-- **Calculated Columns:** Age groups, tenure categories, custom demographic bins
-- **Measures:**
+- **Power Query Transformations**  
+- **Data Modelling**  
+- **DAX (Data Analysis Expressions)**  
+- **Calculated Columns:**  
+- **Measures:**  
   - Employee count and active headcount
   - Attrition rate calculations
   - Year-over-year (YoY) and period-over-period comparisons
   - Performance tracker metrics
-  - Conditional aggregations for demographic analysis
-  
+  - Conditional aggregations for demographic analysis  
 - **Time Intelligence Functions:**
   - YTD, MTD, QTD calculations
   - Prior year comparisons
   - Rolling averages for trend analysis
-
-### Visualization & Report Design
-- **Custom Visuals:**
-  - Demographic breakdowns by age, gender, marital status, and ethnicity
-  - Performance tracker gauges and KPI cards
-  - Attrition analysis charts
-  - Department and job role matrices
-  
-- **Design Best Practices:**
-  - Clean, branded layout design
-  - Consistent color themes and formatting
-  - User-friendly page navigation
-  - Interactive slicers and drill-through functionality
 
 ---
 
@@ -120,25 +97,16 @@ Atlas Labs needs to explore their HR dataset to understand workforce trends and 
 
 <p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/HR_Analytics_PowerBI/blob/main/images/img4.png" /></a></p>
 
-
 ---
 
-## 🔑 Key Insights & Findings
+## Insights & Findings
 
-Example insights:
 - Attrition rate is highest among employees with 1-3 years of tenure
 - Sales department shows 15% higher attrition compared to company average
 - Performance ratings correlate with retention rates
 - Recommended actions: enhanced onboarding, career development programs, competitive compensation review
 
-
 ---
 
-## 📚 Prerequisites
-
-To work with this project, you should have:
-- Power BI Desktop (latest version)
-- Basic understanding of DAX and Power Query
-- Familiarity with data modeling concepts
 
 
